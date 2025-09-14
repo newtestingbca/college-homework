@@ -24,4 +24,4 @@ int main() {
         printf("\nFail");
 
     return 0;
-}
+
